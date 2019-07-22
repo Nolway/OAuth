@@ -1,0 +1,12 @@
+{
+    "name": "alexis/oauth",
+    "description": "OAuth",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"src"
+        }
+    }
+}
